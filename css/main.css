@@ -8,6 +8,11 @@ body {
     background: #fafafa;
     color: #FF7800;
 }
+h3
+{
+    font-family: 'Gochi Hand', cursive;
+}
+
 
 p {
     font-family: 'Poppins', sans-serif;
