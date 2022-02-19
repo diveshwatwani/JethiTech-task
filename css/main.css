@@ -6,7 +6,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: #fafafa;
-
+    color: #FF7800;
 }
 
 p {
@@ -17,10 +17,14 @@ p {
     color: #999;
 }
 
-a,
-a:hover,
+.styleA{
+    color: #FF7800;text-decoration: none;
+}
+a:hover{
+    color: #fafafa;
+}
 a:focus {
-    color: inherit;
+    color: white;
     text-decoration: none;
     transition: all 0.3s;
 }
